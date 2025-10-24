@@ -1,0 +1,15 @@
+
+.cuadro {
+    display: inline-block; /* Mostrar cuadros en línea */
+    text-align: center; /* Centrar contenido */
+    margin-right: 20px; /* Espacio entre cuadros */
+    vertical-align: top; /* Alinear al principio del cuadro */
+    width: 200px; /* Ancho fijo para los cuadros */
+    border:  1px solid #06426A;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.cuadro i {
+    margin-bottom: 10px; /* Espacio entre el icono y el texto */
+}
